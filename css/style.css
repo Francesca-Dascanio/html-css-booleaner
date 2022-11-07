@@ -11,6 +11,21 @@ header {
 }
 
 .logo {
-    width: 40%;
-    height: 40%;
+    width: 15%;
+    height: 15%;
+}
+
+.scritta-grigia {
+    color: grey;
+    font-size: 15px;
+}
+
+.scritta-blu {
+    color:rgb(48, 140, 214);
+    font-size: 15px;
+}
+
+.data {
+    color: grey;
+    font-size: 10px;
 }
