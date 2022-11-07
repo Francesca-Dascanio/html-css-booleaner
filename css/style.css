@@ -42,3 +42,15 @@ header {
     background-color: rgb(30, 118, 219);
     color: white;
 }
+
+.colonna {
+    width: 350px;
+}
+
+.colonna-lunga {
+    width: 700px;
+}
+
+.riga-colorata {
+    background-color: aqua;
+}
